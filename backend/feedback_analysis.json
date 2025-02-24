@@ -1,0 +1,760 @@
+[
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Confusion",
+                "activation": "Low",
+                "intensity": 1.0
+            },
+            "secondary": {
+                "emotion": "Disapproval",
+                "activation": "Medium",
+                "intensity": 0.0
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Service"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "return",
+                    "support"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 45,
+            "breakdown": {
+                "Customer Service": 50
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.96
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.02
+            }
+        },
+        "topics": {
+            "main": [
+                "Delivery"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "slow"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {
+                "Delivery": 87
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Love",
+                "activation": "Low",
+                "intensity": 0.93
+            },
+            "secondary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.02
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 88,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "activation": "Medium",
+                "intensity": 0.9
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.08
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 50,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Nervousness",
+                "activation": "High",
+                "intensity": 0.36
+            },
+            "secondary": {
+                "emotion": "Annoyance",
+                "activation": "High",
+                "intensity": 0.22
+            }
+        },
+        "topics": {
+            "main": [
+                "Auto-Detected"
+            ],
+            "subtopics": {
+                "Auto-Detected": [
+                    "medication",
+                    "prescribe",
+                    "incorrectly",
+                    "cause",
+                    "unnecessary",
+                    "health",
+                    "issue"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 40,
+            "breakdown": {
+                "Auto-Detected": 45
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Relief",
+                "activation": "Low",
+                "intensity": 0.58
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.19
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 70,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "activation": "Medium",
+                "intensity": 0.87
+            },
+            "secondary": {
+                "emotion": "Realization",
+                "activation": "Medium",
+                "intensity": 0.1
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 50,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Surprise",
+                "activation": "High",
+                "intensity": 0.73
+            },
+            "secondary": {
+                "emotion": "Realization",
+                "activation": "Medium",
+                "intensity": 0.17
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Service"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "support",
+                    "refund"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 65,
+            "breakdown": {
+                "Customer Service": 70
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.33
+            },
+            "secondary": {
+                "emotion": "Nervousness",
+                "activation": "High",
+                "intensity": 0.25
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 68,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.92
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "activation": "Medium",
+                "intensity": 0.03
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "activation": "Medium",
+                "intensity": 0.87
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.1
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 50,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.66
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "activation": "Medium",
+                "intensity": 0.17
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 68,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.62
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.24
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.42
+            },
+            "secondary": {
+                "emotion": "Excitement",
+                "activation": "High",
+                "intensity": 0.25
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "amazing"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {
+                "Quality": 87
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Disappointment",
+                "activation": "Medium",
+                "intensity": 0.98
+            },
+            "secondary": {
+                "emotion": "Sadness",
+                "activation": "Low",
+                "intensity": 0.01
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 35,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.7
+            },
+            "secondary": {
+                "emotion": "Disapproval",
+                "activation": "Medium",
+                "intensity": 0.16
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.97
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.02
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Excitement",
+                "activation": "High",
+                "intensity": 0.96
+            },
+            "secondary": {
+                "emotion": "Surprise",
+                "activation": "High",
+                "intensity": 0.02
+            }
+        },
+        "topics": {
+            "main": [
+                "Quality"
+            ],
+            "subtopics": {
+                "Quality": [
+                    "amazing"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 80,
+            "breakdown": {
+                "Quality": 85
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "activation": "Medium",
+                "intensity": 0.95
+            },
+            "secondary": {
+                "emotion": "Annoyance",
+                "activation": "High",
+                "intensity": 0.03
+            }
+        },
+        "topics": {
+            "main": [
+                "Hardware",
+                "Software"
+            ],
+            "subtopics": {
+                "Hardware": [
+                    "laptop"
+                ],
+                "Software": [
+                    "update"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 50,
+            "breakdown": {
+                "Hardware": 55,
+                "Software": 55
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.84
+            },
+            "secondary": {
+                "emotion": "Disapproval",
+                "activation": "Medium",
+                "intensity": 0.07
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Realization",
+                "activation": "Medium",
+                "intensity": 0.79
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.09
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 55,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.82
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "activation": "Medium",
+                "intensity": 0.08
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 68,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.99
+            },
+            "secondary": {
+                "emotion": "Excitement",
+                "activation": "High",
+                "intensity": 0.0
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.93
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.03
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Disapproval",
+                "activation": "Medium",
+                "intensity": 0.49
+            },
+            "secondary": {
+                "emotion": "Disappointment",
+                "activation": "Medium",
+                "intensity": 0.42
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 32,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.99
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.0
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "activation": "Medium",
+                "intensity": 0.57
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.41
+            }
+        },
+        "topics": {
+            "main": [
+                "Delivery"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "fast"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 50,
+            "breakdown": {
+                "Delivery": 55
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Anger",
+                "activation": "High",
+                "intensity": 0.44
+            },
+            "secondary": {
+                "emotion": "Annoyance",
+                "activation": "High",
+                "intensity": 0.29
+            }
+        },
+        "topics": {
+            "main": [
+                "Customer Service",
+                "Auto-Detected"
+            ],
+            "subtopics": {
+                "Customer Service": [
+                    "support"
+                ],
+                "Auto-Detected": [
+                    "issue"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 10,
+            "breakdown": {
+                "Customer Service": 15,
+                "Auto-Detected": 15
+            }
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Optimism",
+                "activation": "Medium",
+                "intensity": 0.72
+            },
+            "secondary": {
+                "emotion": "Nervousness",
+                "activation": "High",
+                "intensity": 0.12
+            }
+        },
+        "topics": {
+            "main": [],
+            "subtopics": {}
+        },
+        "adorescore": {
+            "overall": 72,
+            "breakdown": {}
+        }
+    },
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.99
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.0
+            }
+        },
+        "topics": {
+            "main": [
+                "Delivery"
+            ],
+            "subtopics": {
+                "Delivery": [
+                    "slow"
+                ]
+            }
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {
+                "Delivery": 87
+            }
+        }
+    }
+]

@@ -1,0 +1,456 @@
+{
+    "E-commerce": {
+        "Delivery": [
+            "fast",
+            "slow",
+            "on-time",
+            "shipping",
+            "tracking",
+            "delivered",
+            "missing",
+            "lost"
+        ],
+        "Quality": [
+            "good",
+            "bad",
+            "amazing",
+            "defective",
+            "damaged",
+            "premium"
+        ],
+        "Clothes": [
+            "fit",
+            "size",
+            "fashion",
+            "material"
+        ],
+        "Customer Service": [
+            "support",
+            "refund",
+            "return",
+            "complaint"
+        ]
+    },
+    "Healthcare": {
+        "Treatment": [
+            "therapy",
+            "medicine",
+            "recovery",
+            "surgery"
+        ],
+        "Hospital": [
+            "staff",
+            "doctor",
+            "nurse",
+            "service"
+        ],
+        "Waiting Time": [
+            "delay",
+            "appointment",
+            "long wait"
+        ]
+    },
+    "Finance": {
+        "Banking": [
+            "loan",
+            "credit",
+            "interest",
+            "mortgage"
+        ],
+        "Investment": [
+            "stocks",
+            "bonds",
+            "mutual funds",
+            "portfolio"
+        ],
+        "Insurance": [
+            "policy",
+            "claim",
+            "coverage",
+            "premium"
+        ]
+    },
+    "Technology": {
+        "Software": [
+            "development",
+            "bug",
+            "patch",
+            "update"
+        ],
+        "Hardware": [
+            "laptop",
+            "processor",
+            "battery",
+            "RAM"
+        ],
+        "Cybersecurity": [
+            "firewall",
+            "hacking",
+            "data breach",
+            "phishing"
+        ]
+    },
+    "Education": {
+        "Schools": [
+            "teacher",
+            "student",
+            "curriculum",
+            "exams"
+        ],
+        "Higher Education": [
+            "university",
+            "degree",
+            "scholarship",
+            "admission"
+        ],
+        "E-learning": [
+            "course",
+            "online",
+            "platform",
+            "certification"
+        ]
+    },
+    "Retail": {
+        "Supermarkets": [
+            "groceries",
+            "checkout",
+            "discount",
+            "cashier"
+        ],
+        "Clothing Stores": [
+            "fashion",
+            "style",
+            "brand",
+            "fabric"
+        ],
+        "E-commerce": [
+            "shipping",
+            "cart",
+            "checkout",
+            "return policy"
+        ]
+    },
+    "Automotive": {
+        "Vehicle Manufacturing": [
+            "engine",
+            "transmission",
+            "brakes",
+            "fuel"
+        ],
+        "Auto Repair": [
+            "service",
+            "mechanic",
+            "parts",
+            "diagnostics"
+        ],
+        "Dealerships": [
+            "new cars",
+            "used cars",
+            "test drive",
+            "pricing"
+        ]
+    },
+    "Transportation": {
+        "Airlines": [
+            "flight",
+            "boarding",
+            "baggage",
+            "delay"
+        ],
+        "Public Transport": [
+            "bus",
+            "train",
+            "subway",
+            "ticket"
+        ],
+        "Logistics": [
+            "warehouse",
+            "shipment",
+            "delivery",
+            "supply chain"
+        ]
+    },
+    "Energy": {
+        "Renewable Energy": [
+            "solar",
+            "wind",
+            "hydro",
+            "biomass"
+        ],
+        "Oil & Gas": [
+            "drilling",
+            "refinery",
+            "pipeline",
+            "fuel"
+        ],
+        "Utilities": [
+            "electricity",
+            "water",
+            "natural gas",
+            "billing"
+        ]
+    },
+    "Hospitality": {
+        "Hotels": [
+            "reservation",
+            "room service",
+            "check-in",
+            "amenities"
+        ],
+        "Restaurants": [
+            "menu",
+            "chef",
+            "waiter",
+            "cuisine"
+        ],
+        "Travel Agencies": [
+            "tour package",
+            "itinerary",
+            "booking",
+            "visa"
+        ]
+    },
+    "Entertainment": {
+        "Movies": [
+            "cinema",
+            "ticket",
+            "popcorn",
+            "release date"
+        ],
+        "Music": [
+            "concert",
+            "album",
+            "streaming",
+            "playlist"
+        ],
+        "Gaming": [
+            "console",
+            "multiplayer",
+            "graphics",
+            "VR"
+        ]
+    },
+    "Construction": {
+        "Residential": [
+            "apartment",
+            "house",
+            "renovation",
+            "contractor"
+        ],
+        "Commercial": [
+            "office",
+            "mall",
+            "skyscraper",
+            "blueprint"
+        ],
+        "Infrastructure": [
+            "road",
+            "bridge",
+            "tunnel",
+            "railway"
+        ]
+    },
+    "Telecommunications": {
+        "Mobile Networks": [
+            "4G",
+            "5G",
+            "coverage",
+            "roaming"
+        ],
+        "Internet Providers": [
+            "broadband",
+            "fiber",
+            "speed",
+            "router"
+        ],
+        "Satellite Communications": [
+            "GPS",
+            "weather satellite",
+            "TV broadcast"
+        ]
+    },
+    "Food & Beverage": {
+        "Fast Food": [
+            "burger",
+            "fries",
+            "drive-thru",
+            "combo"
+        ],
+        "Fine Dining": [
+            "chef",
+            "wine",
+            "reservation",
+            "cuisine"
+        ],
+        "Beverages": [
+            "coffee",
+            "tea",
+            "juice",
+            "cocktail"
+        ]
+    },
+    "Legal Services": {
+        "Law Firms": [
+            "attorney",
+            "lawsuit",
+            "contract",
+            "litigation"
+        ],
+        "Corporate Law": [
+            "merger",
+            "acquisition",
+            "intellectual property",
+            "compliance"
+        ],
+        "Criminal Law": [
+            "defense",
+            "prosecution",
+            "verdict",
+            "bail"
+        ]
+    },
+    "Real Estate": {
+        "Residential": [
+            "apartment",
+            "villa",
+            "mortgage",
+            "rental"
+        ],
+        "Commercial": [
+            "office space",
+            "leasing",
+            "property management"
+        ],
+        "Investment": [
+            "real estate fund",
+            "flipping",
+            "valuation"
+        ]
+    },
+    "Mining": {
+        "Metals": [
+            "gold",
+            "copper",
+            "aluminum",
+            "iron"
+        ],
+        "Coal Mining": [
+            "fossil fuel",
+            "thermal coal",
+            "extraction"
+        ],
+        "Non-Metallic Mining": [
+            "limestone",
+            "granite",
+            "marble"
+        ]
+    },
+    "Aerospace": {
+        "Aircraft Manufacturing": [
+            "Boeing",
+            "Airbus",
+            "jet engine",
+            "assembly"
+        ],
+        "Defense": [
+            "fighter jet",
+            "missile",
+            "naval aviation"
+        ],
+        "Space Exploration": [
+            "NASA",
+            "rocket",
+            "ISS",
+            "satellite"
+        ]
+    },
+    "Pharmaceuticals": {
+        "Drug Manufacturing": [
+            "vaccine",
+            "antibiotic",
+            "medicine",
+            "capsule"
+        ],
+        "Biotechnology": [
+            "DNA",
+            "genetics",
+            "stem cells"
+        ],
+        "Medical Devices": [
+            "MRI",
+            "X-ray",
+            "pacemaker"
+        ]
+    },
+    "Product & Service Platforms": {
+        "E-commerce Platforms": [
+            "Amazon",
+            "Flipkart",
+            "eBay",
+            "Walmart"
+        ],
+        "Streaming Services": [
+            "Netflix",
+            "Hulu",
+            "Disney+",
+            "Prime Video"
+        ],
+        "Ride-Sharing": [
+            "Uber",
+            "Lyft",
+            "Ola",
+            "Grab"
+        ],
+        "Food Delivery": [
+            "Zomato",
+            "Swiggy",
+            "DoorDash",
+            "Uber Eats"
+        ],
+        "Online Marketplaces": [
+            "Etsy",
+            "Alibaba",
+            "Shopify",
+            "Rakuten"
+        ],
+        "Cloud Computing": [
+            "AWS",
+            "Google Cloud",
+            "Microsoft Azure",
+            "IBM Cloud"
+        ],
+        "Delivery": [
+            "fast",
+            "slow",
+            "on-time",
+            "shipping",
+            "tracking",
+            "delivered",
+            "missing",
+            "lost"
+        ],
+        "Quality": [
+            "good",
+            "bad",
+            "amazing",
+            "defective",
+            "damaged",
+            "premium"
+        ],
+        "Customer Service": [
+            "support",
+            "refund",
+            "return",
+            "complaint"
+        ],
+        "Auto-Detected": [
+            "health",
+            "incorrectly",
+            "cause",
+            "issue",
+            "medication",
+            "prescribe",
+            "unnecessary"
+        ]
+    }
+}
