@@ -1,0 +1,37 @@
+[
+    {
+        "emotions": {
+            "primary": {
+                "emotion": "Admiration",
+                "activation": "Low",
+                "intensity": 0.97
+            },
+            "secondary": {
+                "emotion": "Approval",
+                "activation": "Low",
+                "intensity": 0.01
+            }
+        },
+        "topics": {
+            "industry": "E-commerce",
+            "main": [
+                "quality",
+                "delivery",
+                "clothes"
+            ],
+            "subtopics": {
+                "quality": [],
+                "delivery": [],
+                "clothes": []
+            }
+        },
+        "adorescore": {
+            "overall": 82,
+            "breakdown": {
+                "quality": 87,
+                "delivery": 87,
+                "clothes": 87
+            }
+        }
+    }
+]

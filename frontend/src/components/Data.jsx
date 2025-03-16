@@ -1,4 +1,3 @@
-import React from "react";
 
 export const Data = ({ data }) => {
   if (!data || !data.analysis) {

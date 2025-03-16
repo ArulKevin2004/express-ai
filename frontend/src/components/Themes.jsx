@@ -1,4 +1,3 @@
-import React from "react";
 
 export const Themes = ({ topics, originalText }) => {
   if (!topics || !topics.main || topics.main.length === 0) {

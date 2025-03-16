@@ -1,14 +1,8 @@
-import React from "react";
 import { RadarChartComponent } from "./RadarChartComponents";
 
 export const AnalysisDashboard = ({ data }) => {
   // Extract analysis info (adorescore and primary/secondary emotions)
-  const { adorescore, emotions: analysisEmotions } = data.analysis;
-  const adorescoreValue =
-    adorescore && adorescore.overall !== undefined
-      ? `+${adorescore.overall}`
-      : "+0";
-
+ 
   // Get emotions data for radar charts
   const emotionsData = data?.emotions?.emotions || [];
 

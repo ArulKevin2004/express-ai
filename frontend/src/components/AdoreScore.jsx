@@ -1,4 +1,3 @@
-import React from "react";
 
 export const AdoreScore = ({ data }) => {
     const { adorescore, emotions: analysisEmotions } = data.analysis;
@@ -8,7 +7,7 @@ export const AdoreScore = ({ data }) => {
       : "+0";
 
     return <>
-    <div className="w-1/2 flex flex-col items-center bg-gray-50 p-4 rounded-md border-neutral-500 border-[1px]">
+    <div className="w-1/2 flex flex-col items-center bg-gray-50 p-2 rounded-md border-neutral-500 border-[1px]">
           <h2 className="text-xl font-bold mb-2">Adorescore</h2>
           <p className="text-3xl font-extrabold text-green-600 mb-4">
             {adorescoreValue}

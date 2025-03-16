@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from main_module import customer_emotion_analysis, get_all_emotions
+from main_module import customer_emotion_analysis, get_all_emotions, translation
 
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -21,7 +21,6 @@ class TextRequest(BaseModel):
 
 @app.post("/analyze_emotion")
 def analyze_emotion(request: TextRequest):
-    
     return customer_emotion_analysis(request.text)
 
 
@@ -29,3 +28,21 @@ def analyze_emotion(request: TextRequest):
 @app.post("/all_emotions")
 def all_emotions(request: TextRequest):
     return get_all_emotions(request.text)
+
+class TranslationRequest(BaseModel):
+    text: str
+    language: str
+
+@app.post("/translate")
+def translate(request: TranslationRequest):
+    if request.language not  in ["eng_Latn", "default"]:
+        feedback = translation(request.text, request.language)
+        print(feedback[0]['translation_text'])
+        return {
+        "result" : customer_emotion_analysis(feedback[0]['translation_text']),
+        "translation" : feedback[0]['translation_text']
+        }
+    return {
+        "result" : customer_emotion_analysis(request.text),
+        "translation" : request.text
+    }
